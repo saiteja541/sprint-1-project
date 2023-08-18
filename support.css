@@ -1,0 +1,24 @@
+h4, p, h5 {
+    text-align: center;
+}
+
+
+.area {
+    text-align: center;
+}
+
+.navbar-brand {
+    padding-left: 10px;
+}
+
+h4, h5 {
+    color: #004085;
+}
+
+textarea {
+    color: grey;
+}
+
+p {
+    color: #004085;
+}

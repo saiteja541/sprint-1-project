@@ -1,0 +1,112 @@
+
+body nav a{
+    text-align: center;
+}
+
+
+
+
+nav a{
+    text-align: center;
+}
+.navbar-brand{
+    align-content: center;   
+}
+
+
+.navbar-logo{
+    height: 50px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin-right: -5px;
+    margin-top: 12px;
+    margin-left: -3px;
+    
+}
+
+
+
+.nav-item {
+    margin-top:10px; 
+}
+
+.navbar-nav {
+    margin-top: 15px;
+}
+.navbar-toggler-icon {
+    font-size: 1rem;
+}
+
+.navbar-toggler {
+    margin-top: -6px;
+    margin-left: -12px;
+}
+
+
+
+.gateway_logo {
+    font-size:revert;
+    color:#004085;
+    text-align: center;
+    margin-left: -60px;
+}
+    .sign-in-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 70vh;
+    }
+    .sign-in-form {
+      width: 300px;
+      padding: 20px;
+     
+    }
+    .sumbit .btn{
+      justify-content: center;
+     
+    }
+    .social-icons {
+      font-size: 24px;
+      margin: 0 10px;
+    }
+
+    .btn {
+        color:white;
+    }
+
+    .navbar-logo {
+        padding-left: 10px;
+    }
+
+    .navbar-brand p{
+        padding-left: 10px;
+    }
+
+    .navbar-logo{
+        height: 50px;
+        display: inline-flex;
+        vertical-align: middle;
+        margin-right: -5px;
+        
+    }
+
+    .navbar-brand{
+        align-content: center;
+    }
+
+
+    h6 {
+        color: grey;
+    }
+    
+    h2,h4 {
+        color: #004085;
+    }
+
+    .form-label {
+        color: #004085;
+    }
+
+    p {
+        color: #004085;
+    }

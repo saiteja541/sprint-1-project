@@ -1,0 +1,56 @@
+body nav a{
+    text-align: center;
+}
+
+.navbar-brand{
+    align-content: center;
+}
+
+
+.navbar-logo{
+    height: 50px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin-right: -5px;
+    margin-top: 12px;
+    margin-left: -3px;
+    
+}
+
+
+
+.nav-item {
+    margin-top:10px; 
+}
+
+.navbar-nav {
+    margin-top: 15px;
+}
+
+.navbar-toggler-icon {
+    font-size: 1rem;
+}
+
+.navbar-toggler {
+    margin-top: -6px;
+    margin-left: -12px;
+}
+
+
+
+
+
+h4 {
+    text-align: center;
+    color:grey;
+}
+
+.Gateway_overview {
+    text-align: center;
+    color:deeppink;
+}
+
+p {
+    color: #004085;
+}
+
